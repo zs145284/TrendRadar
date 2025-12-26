@@ -1,6 +1,4 @@
 DeepSeek
-梁文锋
-
 谷歌
 google
 gemini
@@ -8,18 +6,16 @@ gemini
 chatgpt
 openai
 
-金价
+ai
 
-黄金
-+价格
+trae
 
-美债
+cursor
 
-美股
+agent
 
-美元
-+指数
+defold
 
-特朗普
+godot
 
-伊朗
+obsidian
