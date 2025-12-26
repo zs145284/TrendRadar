@@ -1,6 +1,4 @@
 DeepSeek
-谷歌
-google
 gemini
 chatgpt
 openai
@@ -8,6 +6,7 @@ trae
 cursor
 agent
 人工智能
+阿里
 AI  
 ChatGPT
 +技术
